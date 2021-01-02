@@ -10,12 +10,14 @@ This one is a modified `/usr/share/X11/xkb/symbols/gb`
  * `reboot`
 
 ## Usage
+```
 | Type                     | Get |
-|`<alt gr> + <a>`          | `ä` |
-|`<alt gr> + <shift> + <a>`| `Ä` |
-|`<alt gr> + <o>`          | `ö` |
-|`<alt gr> + <shift> + <o>`| `Ö` |
-|`<alt gr> + <u>`          | `ü` |
-|`<alt gr> + <shift> + <u>`| `Ü` |
-|`<alt gr> + <s>`          | `ß` |
-|`<alt gr> + <shift> + <s>`| `ẞ` |
+|`<alt gr> + <a>`          | ä |
+|`<alt gr> + <shift> + <a>`| Ä |
+|`<alt gr> + <o>`          | ö |
+|`<alt gr> + <shift> + <o>`| Ö |
+|`<alt gr> + <u>`          | ü |
+|`<alt gr> + <shift> + <u>`| Ü |
+|`<alt gr> + <s>`          | ß |
+|`<alt gr> + <shift> + <s>`| ẞ |
+```
