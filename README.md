@@ -21,3 +21,6 @@ This one is a modified `/usr/share/X11/xkb/symbols/gb`
 |`<alt gr> + <s>`          | ß |
 |`<alt gr> + <shift> + <s>`| ẞ |
 ```
+
+## See also
+Using [xmodmap](https://medium.com/@retprogramisto/how-to-make-custom-keyboard-map-with-xmodmap-1341a1552d4f) instead.
